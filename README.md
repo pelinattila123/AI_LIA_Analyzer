@@ -1,5 +1,7 @@
 NextStepAI
 Projektarbete i Python -  Pelin Korkmaz
+
+
 Mål;
 Jag började min utbildning till AI Developer för ungefär en månad sedan. Under den första tiden märkte jag att många studenter fokuserar på att hitta en LIA-plats, förbättra sitt CV och förbereda sig inför intervjuer. Därför bestämde jag mig för att skapa NextStepAI. Jag ville bygga ett program som kunde hjälpa användaren med dessa tre delar på ett enkelt sätt. Mitt mål var inte att skapa avancerad artificiell intelligens utan att använda de Python-kunskaper jag har lärt mig hittills för att lösa ett verkligt problem som många AI-studenter möter.
 Metod;
