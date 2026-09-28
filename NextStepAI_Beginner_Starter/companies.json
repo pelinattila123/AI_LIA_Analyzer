@@ -1,0 +1,38 @@
+{
+  "AI": [
+    {
+      "company": "Knowit",
+      "description": "Passar dig som är intresserad av AI.",
+      "skills": ["Python", "Git", "SQL"]
+    },
+    {
+      "company": "Nexer",
+      "description": "Passar dig som vill arbeta med AI-lösningar.",
+      "skills": ["Python", "Git", "Machine Learning"]
+    }
+  ],
+  "Python": [
+    {
+      "company": "AFRY",
+      "description": "Passar dig som gillar Python-utveckling.",
+      "skills": ["Python", "Git", "SQL"]
+    },
+    {
+      "company": "Knowit",
+      "description": "Passar dig som vill utveckla Python-lösningar.",
+      "skills": ["Python", "API", "Git"]
+    }
+  ],
+  "Dataanalys": [
+    {
+      "company": "Sopra Steria",
+      "description": "Passar dig som vill arbeta med dataanalys.",
+      "skills": ["SQL", "Excel", "Python"]
+    },
+    {
+      "company": "AFRY",
+      "description": "Passar dig som vill analysera data och skapa rapporter.",
+      "skills": ["Python", "SQL", "Power BI"]
+    }
+  ]
+}
